@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mbl9645964-cell.github.io/her-space-womens-clinic/sitemap.xml
